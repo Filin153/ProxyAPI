@@ -1,0 +1,5 @@
+fastapi[all]==0.100.0
+pandas
+requests
+gunicorn
+lxml
